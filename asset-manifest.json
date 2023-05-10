@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Projeto_de_pes/static/css/main.d25a52fc.css",
+    "main.js": "/Projeto_de_pes/static/js/main.654dd1ce.js",
+    "static/media/livro.png": "/Projeto_de_pes/static/media/livro.ade19d9189f73eee3e27.png",
+    "index.html": "/Projeto_de_pes/index.html",
+    "main.d25a52fc.css.map": "/Projeto_de_pes/static/css/main.d25a52fc.css.map",
+    "main.654dd1ce.js.map": "/Projeto_de_pes/static/js/main.654dd1ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d25a52fc.css",
+    "static/js/main.654dd1ce.js"
+  ]
+}
